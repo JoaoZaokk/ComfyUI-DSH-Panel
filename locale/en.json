@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ComfyUI Monitor",
+    "description": "Adds a ComfyUI entry to the left sidebar. Choose between one or several ComfyUI servers and follow the running generation, the queue, the history and each job's workflow graph."
+  }
+}

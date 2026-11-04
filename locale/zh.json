@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ComfyUI 监视器",
+    "description": "在左侧边栏添加 ComfyUI 入口。可在一个或多个 ComfyUI 服务器之间选择,并查看正在进行的生成、队列、历史记录以及每个任务的工作流图。"
+  }
+}

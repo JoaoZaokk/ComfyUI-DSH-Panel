@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Monitor do ComfyUI",
+    "description": "Adiciona uma entrada do ComfyUI na barra lateral esquerda. Escolha entre um ou vários servidores ComfyUI e acompanhe a geração em andamento, a fila, o histórico e o grafo do workflow de cada trabalho."
+  }
+}

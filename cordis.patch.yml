@@ -1,0 +1,10 @@
+- insert:
+    - id: comfyui-panel
+      name: '@local/comfyui-panel'
+      config:
+        # Extra ComfyUI servers: [{ name: 'Studio', url: 'http://192.168.0.20:8188', id?: 'studio', headers?: {} }]
+        servers: []
+        # Probe these local ports and list every running ComfyUI. Set `discover: false` to disable.
+        discover:
+          host: 127.0.0.1
+          ports: [8188, 8189, 8190, 8191, 8192, 8193, 8194, 8195]
